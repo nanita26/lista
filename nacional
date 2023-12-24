@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1, universal
 http://191.102.90.97:8000/play/a07k/index.m3u8
+#EXTINF:-1, caracol
+https://rpn3.bozztv.com/ssh101/ssh101/c1ewafaw/chunks.m3u8?nimblesessionid=49302562
 #EXTINF:-1,peli vvacaciones
 https://pc-12.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/c77cadea5a9a536fbf3f87c09cfced29/EP.0.1.v0.1677470661.m3u8#CO
 #EXTINF:-1,no se 
