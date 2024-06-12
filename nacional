@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1, universal
-http://191.102.90.97:8000/play/a07k/index.m3u8
+#EXTINF:-1, caracolNana
+https://cdn.tvcolfta.xyz/static/streaming-playlists/hls/af0300d4-e6f3-4bf4-822c-ccb81db72c93/0.m3u8
 #EXTINF:-1, rcn
 https://s01.castamp.com/live/r23fetg/chunklist.m3u8?h=O1alClZyX3Xv7qiLelmWIw&e=1703408608&u=ab475cbf34fcb03e0ea89fbe94b27782&d=2800_484_987b_5700_9857_a429_2fa4_f3d5
 #EXTINF:-1, caracol
