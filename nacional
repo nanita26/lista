@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1, caracolNana
-https://cdn.tvcolfta.xyz/static/streaming-playlists/hls/3d25aa33-a31a-4991-a418-2d14931ecf90/0.m3u8
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
 #EXTINF:-1, rcn
 https://cdn.tvcolfta.xyz/static/streaming-playlists/hls/2364a9a2-189f-4a9b-8777-c99084d35103/0.m3u8
 #EXTINF:-1, caracol
