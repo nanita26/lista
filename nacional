@@ -9,8 +9,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/65786a1ccbd0d60008f7e2a9/master.m3u
 https://rfsqd3x6wh8j9kyutc47bp.cdnweigh.net:8443/hls/lujph4scp.m3u8
 #EXTINF:-1, chatumalMex
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1, caracol
-https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
+#EXTINF:-1, resident evil
+https://media.cueplay.xyz/bcdn_token=HS256-UkTjWJ8Z59_qAF0dkXPk-xSxoaFqCysUUKSdvRTzLCY&expires=1791269092&token_path=%2Fmovie%2F1423191%2Flatino%2F/movie/1423191/latino/master.m3u8
 #EXTINF:-1, señal colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1,peli vvacaciones
